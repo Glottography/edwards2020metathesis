@@ -1,0 +1,42 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+amar1273,Amarasi,,-10.21751,123.96373,amar1273,,37 63,language,Austronesian,languages
+aput1237,Aputai,,-7.84732,126.496,aput1237,,5,language,Austronesian,languages
+bilb1242,Bilba,,-10.6503,123.307,bilb1242,,10 11 18 43,language,Austronesian,languages
+buna1278,Bunak,,-9.13618,125.216,buna1278,,12,language,Timor-Alor-Pantar,languages
+dela1251,Dela-Oenale,,-10.8469,122.852,dela1251,,14 15 56,language,Austronesian,languages
+deng1253,Dengka,,-10.7866,122.946,deng1253,,16 42,language,Austronesian,languages
+dhao1237,Dhao,,-10.8098,122.658,dhao1237,,17,language,Austronesian,languages
+fata1247,Fataluku,,-8.49464,127.08,fata1247,,20,language,Timor-Alor-Pantar,languages
+galo1243,Galoli-Talur,,-8.61074,125.959,galo1243,,22,language,Austronesian,languages
+habu1241,Habu,,-8.76565,125.965,habu1241,,23,language,Austronesian,languages
+helo1243,Helong,,-10.2647,123.377,helo1243,,25,language,Austronesian,languages
+idat1237,Idaté,,-8.76258,125.832,idat1237,,27,language,Austronesian,languages
+iliu1237,Ili'uun,,-7.84385,125.902,iliu1237,,13 28 61,language,Austronesian,languages
+kair1265,Kairui-Midiki,,-8.74034,126.059,kair1265,,30 52,language,Austronesian,languages
+kema1243,Kemak,,-9.00299,125.159,kema1243,,32,language,Austronesian,languages
+kisa1266,Kisar,,-8.05122,127.18,kisa1266,,34,language,Austronesian,languages
+kupa1239,Kupang Malay,,-10.2526,123.63,kupa1239,,38,language,Austronesian,languages
+laka1255,Lakalei,,-8.86372,125.716,laka1255,,40,language,Austronesian,languages
+leti1246,Leti (Indonesia),,-8.19808,127.674,leti1246,,44,language,Austronesian,languages
+lole1239,Lole,,-10.8069,123.085,lole1239,,6 45,language,Austronesian,languages
+luan1263,Luang,,-8.18378,127.944,luan1263,,46,language,Austronesian,languages
+maka1316,Makasae-Makalero,,-8.65843,126.507,maka1316,,47 48 65,language,Timor-Alor-Pantar,languages
+maku1277,Maku'a,,-8.40372,127.239,maku1277,,49,language,Austronesian,languages
+mamb1306,Mambae,,-9.19552,125.475,mamb1306,,50,language,Austronesian,languages
+naue1237,Nauete,,-8.70733,126.741,naue1237,,55,language,Austronesian,languages
+oira1263,Oirata,,-8.09044,127.201,oira1263,,58,language,Timor-Alor-Pantar,languages
+pera1257,Perai,,-7.62349,126.576,pera1257,,59,language,Austronesian,languages
+ring1244,Ringgou,,-10.5515,123.311,ring1244,,19 41 57 62,language,Austronesian,languages
+roma1332,Roma,,-7.58643,127.428,roma1332,,64,language,Austronesian,languages
+sabu1255,Hawu,,-10.5522,121.847,sabu1255,,24 60,language,Austronesian,languages
+term1237,Termanu,,-10.7326,123.169,term1237,,31 36 66 67,language,Austronesian,languages
+tetu1245,Tetum,,-9.11217,125.528,tetu1245,,68,language,Austronesian,languages
+tetu1246,Tetun Dili,,-8.58405,125.583,tetu1246,,69,language,Austronesian,languages
+tiii1241,Tii,,-10.8425,122.963,tiii1241,,70,language,Austronesian,languages
+tugu1245,Tugun,,-7.72555,126.7,tugu1245,,73,language,Austronesian,languages
+tuku1254,Tukudede,,-8.6788,125.283,tuku1254,,72,language,Austronesian,languages
+uabm1237,Uab Meto,,-9.77284,124.144,uabm1237,,1 2 3 4 7 8 9 21 29 39 53 54 71,language,Austronesian,languages
+waim1252,Waima'a,,-8.53416,126.317,waim1252,,74,language,Austronesian,languages
+wela1235,Welaun,,-9.097288,125.239513,wela1235,,75,language,Austronesian,languages
+aust1307,Austronesian,,,,aust1307,,1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 49 50 51 52 53 54 55 56 57 59 60 61 62 63 64 66 67 68 69 70 71 72 73 74 75,family,,families
+timo1261,Timor-Alor-Pantar,,,,timo1261,,12 20 47 48 58 65,family,,families
