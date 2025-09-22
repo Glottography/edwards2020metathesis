@@ -12,7 +12,7 @@ cldfbench download cldfbench_edwards2020metathesis.py
 ```shell
 cldfbench makecldf cldfbench_edwards2020metathesis.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_edwards2020metathesis.py
-cldfbench zenodo cldfbench_edwards2020metathesis.py
+cldfbench zenodo --communities glottography cldfbench_edwards2020metathesis.py
 cldfbench readme cldfbench_edwards2020metathesis.py
 ```
 

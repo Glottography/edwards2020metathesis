@@ -1,76 +1,78 @@
-ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_ID,Map_Name
-1,Amabi-Oefeto,,,,amfo1237,2020,edwards2020metathesis,features,Figure 1.2
-2,Amanatun,,,,aman1264,2020,edwards2020metathesis,features,Figure 1.2
-3,Amanuban,,,,aman1264,2020,edwards2020metathesis,features,Figure 1.2
-4,Amfo'an,,,,amfo1237,2020,edwards2020metathesis,features,Figure 1.2
-5,Aputai,,,,aput1237,2020,edwards2020metathesis,features,Figure 1.1
-6,Ba'a,,,,baaa1237,2020,edwards2020metathesis,features,Figure 1.1
-7,Baikeno,,,,uabm1237,2020,edwards2020metathesis,features,Figure 1.2
-8,Baumata,,,,uabm1237,2020,edwards2020metathesis,features,Figure 1.2
-9,Beboki,,,,bibo1238,2020,edwards2020metathesis,features,Figure 1.2
-10,Bilbaa,,,,bilb1242,2020,edwards2020metathesis,features,Figure 1.1
-11,Bokai,,,,boka1251,2020,edwards2020metathesis,features,Figure 1.1
-12,Bunak,,,,buna1278,2020,edwards2020metathesis,features,Figure 1.1
-13,Dadu'a,,,,dadu1237,2020,edwards2020metathesis,features,Figure 1.1
-14,Dela,,,,dela1252,2020,edwards2020metathesis,features,Figure 1.1
-15,Dela-Oenale,,,,dela1251,2020,edwards2020metathesis,features,Figure 1.1
-16,Dengka,,,,deng1253,2020,edwards2020metathesis,features,Figure 1.1
-17,Dhao,,,,dhao1237,2020,edwards2020metathesis,features,Figure 1.1
-18,Diu,,,,diuu1237,2020,edwards2020metathesis,features,Figure 1.1
-19,East Rote,,,,ring1244,2020,edwards2020metathesis,features,Figure 1.1
-20,Fataluku,,,,fata1247,2020,edwards2020metathesis,features,Figure 1.1
-21,Fatule'u,,,,amfo1237,2020,edwards2020metathesis,features,Figure 1.2
-22,Galolen,,,,galo1243,2020,edwards2020metathesis,features,Figure 1.1
-23,Habun,,,,habu1241,2020,edwards2020metathesis,features,Figure 1.1
-24,Hawu,,,,sabu1255,2020,edwards2020metathesis,features,Figure 1.1
-25,Helong,,,,helo1243,2020,edwards2020metathesis,features,Figure 1.1
-26,Hresuk,,,,weta1245,2020,edwards2020metathesis,features,Figure 1.1
-27,Idate,,,,idat1237,2020,edwards2020metathesis,features,Figure 1.1
-28,Ili'uun,,,,iliu1237,2020,edwards2020metathesis,features,Figure 1.1
-29,Insana,,,,bibo1238,2020,edwards2020metathesis,features,Figure 1.2
-30,Kairui,,,,kair1266,2020,edwards2020metathesis,features,Figure 1.1
-31,Keka,,,,keka1234,2020,edwards2020metathesis,features,Figure 1.1
-32,Kemak,,,,kema1243,2020,edwards2020metathesis,features,Figure 1.1
-33,Ketun,,,,east2858,2020,edwards2020metathesis,features,Figure 1.2
-34,Kisar,,,,kisa1266,2020,edwards2020metathesis,features,Figure 1.1
-35,Kopas,,,,east2858,2020,edwards2020metathesis,features,Figure 1.2
-36,Korbafo,,,,korb1237,2020,edwards2020metathesis,features,Figure 1.1
-37,Kotos Amarasi,,,,koto1251,2020,edwards2020metathesis,features,Figure 1.2
-38,Kupang Malay,,,,kupa1239,2020,edwards2020metathesis,features,Figure 1.1
-39,Kusa-Manea,,,,kusa1252,2020,edwards2020metathesis,features,Figure 1.2
-40,Lakalei,,,,laka1255,2020,edwards2020metathesis,features,Figure 1.1
-41,Landu,,,,land1257,2020,edwards2020metathesis,features,Figure 1.1
-42,Lelain,,,,lela1245,2020,edwards2020metathesis,features,Figure 1.1
-43,Lelenuk,,,,lele1271,2020,edwards2020metathesis,features,Figure 1.1
-44,Leti,,,,leti1246,2020,edwards2020metathesis,features,Figure 1.1
-45,Lole,,,,lole1239,2020,edwards2020metathesis,features,Figure 1.1
-46,Luang,,,,luan1263,2020,edwards2020metathesis,features,Figure 1.1
-47,Makalero,,,,makl1245,2020,edwards2020metathesis,features,Figure 1.1
-48,Makasae,,,,maka1317,2020,edwards2020metathesis,features,Figure 1.1
-49,Makuva,,,,maku1277,2020,edwards2020metathesis,features,Figure 1.1
-50,Mambae,,,,mamb1306,2020,edwards2020metathesis,features,Figure 1.1
-51,Meto,,,,uabm1238,2020,edwards2020metathesis,features,Figure 1.1
-52,Midiki,,,,midi1237,2020,edwards2020metathesis,features,Figure 1.1
-53,Miomafo,,,,moll1242,2020,edwards2020metathesis,features,Figure 1.2
-54,Molo,,,,moll1242,2020,edwards2020metathesis,features,Figure 1.2
-55,Naueti,,,,naue1237,2020,edwards2020metathesis,features,Figure 1.1
-56,Oenale,,,,oena1237,2020,edwards2020metathesis,features,Figure 1.1
-57,Oepao,,,,oepa1237,2020,edwards2020metathesis,features,Figure 1.1
-58,Oirata,,,,oira1263,2020,edwards2020metathesis,features,Figure 1.1
-59,Perai,,,,pera1257,2020,edwards2020metathesis,features,Figure 1.1
-60,Raijua,,,,raij1237,2020,edwards2020metathesis,features,Figure 1.1
-61,Raklungu,,,,iliu1237,2020,edwards2020metathesis,features,Figure 1.1
-62,Rikou,,,,ring1244,2020,edwards2020metathesis,features,Figure 1.1
-63,Ro'is Amarasi,,,,rois1241,2020,edwards2020metathesis,features,Figure 1.2
-64,Roma,,,,roma1332,2020,edwards2020metathesis,features,Figure 1.1
-65,Sa'ani,,,,maka1316,2020,edwards2020metathesis,features,Figure 1.1
-66,Talae,,,,tala1297,2020,edwards2020metathesis,features,Figure 1.1
-67,Termanu,,,,term1237,2020,edwards2020metathesis,features,Figure 1.1
-68,Tetun,,,,tetu1245,2020,edwards2020metathesis,features,Figure 1.1
-69,Tetun Dili,,,,tetu1246,2020,edwards2020metathesis,features,Figure 1.1
-70,Tii,,,,tiii1241,2020,edwards2020metathesis,features,Figure 1.1
-71,Timaus,,,,uabm1237,2020,edwards2020metathesis,features,Figure 1.2
-72,Tokodede,,,,tuku1254,2020,edwards2020metathesis,features,Figure 1.1
-73,Tugun,,,,tugu1245,2020,edwards2020metathesis,features,Figure 1.1
-74,Waima'a,,,,waim1252,2020,edwards2020metathesis,features,Figure 1.1
-75,Welaun,,,,wela1235,2020,edwards2020metathesis,features,Figure 1.1
+ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
+fig1-2,Figure 1.2,Self-identified varieties of Meto,,,,,edwards2020metathesis,,map,
+fig1-1,Figure 1.1,Language groups of Timor,,,,,edwards2020metathesis,,map,
+1,Amabi-Oefeto,,,,amfo1237,2020,edwards2020metathesis,features,feature,fig1-2
+2,Amanatun,,,,aman1264,2020,edwards2020metathesis,features,feature,fig1-2
+3,Amanuban,,,,aman1264,2020,edwards2020metathesis,features,feature,fig1-2
+4,Amfo'an,,,,amfo1237,2020,edwards2020metathesis,features,feature,fig1-2
+5,Aputai,,,,aput1237,2020,edwards2020metathesis,features,feature,fig1-1
+6,Ba'a,,,,baaa1237,2020,edwards2020metathesis,features,feature,fig1-1
+7,Baikeno,,,,uabm1237,2020,edwards2020metathesis,features,feature,fig1-2
+8,Baumata,,,,uabm1237,2020,edwards2020metathesis,features,feature,fig1-2
+9,Beboki,,,,bibo1238,2020,edwards2020metathesis,features,feature,fig1-2
+10,Bilbaa,,,,bilb1242,2020,edwards2020metathesis,features,feature,fig1-1
+11,Bokai,,,,boka1251,2020,edwards2020metathesis,features,feature,fig1-1
+12,Bunak,,,,buna1278,2020,edwards2020metathesis,features,feature,fig1-1
+13,Dadu'a,,,,dadu1237,2020,edwards2020metathesis,features,feature,fig1-1
+14,Dela,,,,dela1252,2020,edwards2020metathesis,features,feature,fig1-1
+15,Dela-Oenale,,,,dela1251,2020,edwards2020metathesis,features,feature,fig1-1
+16,Dengka,,,,deng1253,2020,edwards2020metathesis,features,feature,fig1-1
+17,Dhao,,,,dhao1237,2020,edwards2020metathesis,features,feature,fig1-1
+18,Diu,,,,diuu1237,2020,edwards2020metathesis,features,feature,fig1-1
+19,East Rote,,,,ring1244,2020,edwards2020metathesis,features,feature,fig1-1
+20,Fataluku,,,,fata1247,2020,edwards2020metathesis,features,feature,fig1-1
+21,Fatule'u,,,,amfo1237,2020,edwards2020metathesis,features,feature,fig1-2
+22,Galolen,,,,galo1243,2020,edwards2020metathesis,features,feature,fig1-1
+23,Habun,,,,habu1241,2020,edwards2020metathesis,features,feature,fig1-1
+24,Hawu,,,,sabu1255,2020,edwards2020metathesis,features,feature,fig1-1
+25,Helong,,,,helo1243,2020,edwards2020metathesis,features,feature,fig1-1
+26,Hresuk,,,,weta1245,2020,edwards2020metathesis,features,feature,fig1-1
+27,Idate,,,,idat1237,2020,edwards2020metathesis,features,feature,fig1-1
+28,Ili'uun,,,,iliu1237,2020,edwards2020metathesis,features,feature,fig1-1
+29,Insana,,,,bibo1238,2020,edwards2020metathesis,features,feature,fig1-2
+30,Kairui,,,,kair1266,2020,edwards2020metathesis,features,feature,fig1-1
+31,Keka,,,,keka1234,2020,edwards2020metathesis,features,feature,fig1-1
+32,Kemak,,,,kema1243,2020,edwards2020metathesis,features,feature,fig1-1
+33,Ketun,,,,east2858,2020,edwards2020metathesis,features,feature,fig1-2
+34,Kisar,,,,kisa1266,2020,edwards2020metathesis,features,feature,fig1-1
+35,Kopas,,,,east2858,2020,edwards2020metathesis,features,feature,fig1-2
+36,Korbafo,,,,korb1237,2020,edwards2020metathesis,features,feature,fig1-1
+37,Kotos Amarasi,,,,koto1251,2020,edwards2020metathesis,features,feature,fig1-2
+38,Kupang Malay,,,,kupa1239,2020,edwards2020metathesis,features,feature,fig1-1
+39,Kusa-Manea,,,,kusa1252,2020,edwards2020metathesis,features,feature,fig1-2
+40,Lakalei,,,,laka1255,2020,edwards2020metathesis,features,feature,fig1-1
+41,Landu,,,,land1257,2020,edwards2020metathesis,features,feature,fig1-1
+42,Lelain,,,,lela1245,2020,edwards2020metathesis,features,feature,fig1-1
+43,Lelenuk,,,,lele1271,2020,edwards2020metathesis,features,feature,fig1-1
+44,Leti,,,,leti1246,2020,edwards2020metathesis,features,feature,fig1-1
+45,Lole,,,,lole1239,2020,edwards2020metathesis,features,feature,fig1-1
+46,Luang,,,,luan1263,2020,edwards2020metathesis,features,feature,fig1-1
+47,Makalero,,,,makl1245,2020,edwards2020metathesis,features,feature,fig1-1
+48,Makasae,,,,maka1317,2020,edwards2020metathesis,features,feature,fig1-1
+49,Makuva,,,,maku1277,2020,edwards2020metathesis,features,feature,fig1-1
+50,Mambae,,,,mamb1306,2020,edwards2020metathesis,features,feature,fig1-1
+51,Meto,,,,uabm1238,2020,edwards2020metathesis,features,feature,fig1-1
+52,Midiki,,,,midi1237,2020,edwards2020metathesis,features,feature,fig1-1
+53,Miomafo,,,,moll1242,2020,edwards2020metathesis,features,feature,fig1-2
+54,Molo,,,,moll1242,2020,edwards2020metathesis,features,feature,fig1-2
+55,Naueti,,,,naue1237,2020,edwards2020metathesis,features,feature,fig1-1
+56,Oenale,,,,oena1237,2020,edwards2020metathesis,features,feature,fig1-1
+57,Oepao,,,,oepa1237,2020,edwards2020metathesis,features,feature,fig1-1
+58,Oirata,,,,oira1263,2020,edwards2020metathesis,features,feature,fig1-1
+59,Perai,,,,pera1257,2020,edwards2020metathesis,features,feature,fig1-1
+60,Raijua,,,,raij1237,2020,edwards2020metathesis,features,feature,fig1-1
+61,Raklungu,,,,iliu1237,2020,edwards2020metathesis,features,feature,fig1-1
+62,Rikou,,,,ring1244,2020,edwards2020metathesis,features,feature,fig1-1
+63,Ro'is Amarasi,,,,rois1241,2020,edwards2020metathesis,features,feature,fig1-2
+64,Roma,,,,roma1332,2020,edwards2020metathesis,features,feature,fig1-1
+65,Sa'ani,,,,maka1316,2020,edwards2020metathesis,features,feature,fig1-1
+66,Talae,,,,tala1297,2020,edwards2020metathesis,features,feature,fig1-1
+67,Termanu,,,,term1237,2020,edwards2020metathesis,features,feature,fig1-1
+68,Tetun,,,,tetu1245,2020,edwards2020metathesis,features,feature,fig1-1
+69,Tetun Dili,,,,tetu1246,2020,edwards2020metathesis,features,feature,fig1-1
+70,Tii,,,,tiii1241,2020,edwards2020metathesis,features,feature,fig1-1
+71,Timaus,,,,uabm1237,2020,edwards2020metathesis,features,feature,fig1-2
+72,Tokodede,,,,tuku1254,2020,edwards2020metathesis,features,feature,fig1-1
+73,Tugun,,,,tugu1245,2020,edwards2020metathesis,features,feature,fig1-1
+74,Waima'a,,,,waim1252,2020,edwards2020metathesis,features,feature,fig1-1
+75,Welaun,,,,wela1235,2020,edwards2020metathesis,features,feature,fig1-1
