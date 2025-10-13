@@ -1,4 +1,30 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+aman1264,Amanuban-Amanatun,,,,aman1264,,2 3,dialect,Austronesian,dialects
+amfo1237,Amfoan-Fatule'u,,,,amfo1237,,1 4 21,dialect,Austronesian,dialects
+baaa1237,Ba'a,,,,baaa1237,,6,dialect,Austronesian,dialects
+bibo1238,Biboki-Insana,,,,bibo1238,,9 29,dialect,Austronesian,dialects
+boka1251,Bokai,,,,boka1251,,11,dialect,Austronesian,dialects
+dadu1237,Dadu'a,,-8.486,125.8637,dadu1237,,13,dialect,Austronesian,dialects
+dela1252,Dela,,,,dela1252,,14,dialect,Austronesian,dialects
+diuu1237,Diu,,,,diuu1237,,18,dialect,Austronesian,dialects
+kair1266,Kairui,,,,kair1266,,30,dialect,Austronesian,dialects
+keka1234,Keka,,,,keka1234,,31,dialect,Austronesian,dialects
+korb1237,Korbafo,,,,korb1237,,36,dialect,Austronesian,dialects
+koto1251,Kotos,,,,koto1251,,37,dialect,Austronesian,dialects
+kusa1252,Kusa-Manlea,,,,kusa1252,,39,dialect,Austronesian,dialects
+land1257,Landu,,,,land1257,,41,dialect,Austronesian,dialects
+lela1245,Lelain,,,,lela1245,,42,dialect,Austronesian,dialects
+lele1271,Lelenuk,,,,lele1271,,43,dialect,Austronesian,dialects
+maka1317,Makasai,,,,maka1317,,48,dialect,Timor-Alor-Pantar,dialects
+makl1245,Maklere,,,,makl1245,,47,dialect,Timor-Alor-Pantar,dialects
+midi1237,Midiki,,,,midi1237,,52,dialect,Austronesian,dialects
+moll1242,Mollo-Miomafo,,,,moll1242,,53 54,dialect,Austronesian,dialects
+oena1237,Oenale,,,,oena1237,,56,dialect,Austronesian,dialects
+oepa1237,Oe Pao,,,,oepa1237,,57,dialect,Austronesian,dialects
+pada1260,Pa'da Kona,,,,pada1260,,31 66,dialect,Austronesian,dialects
+raij1237,Raijua,,,,raij1237,,60,dialect,Austronesian,dialects
+rois1241,Ro'is,,,,rois1241,,63,dialect,Austronesian,dialects
+tala1297,Talae,,,,tala1297,,66,dialect,Austronesian,dialects
 amar1273,Amarasi,,-10.21751,123.96373,amar1273,,37 63,language,Austronesian,languages
 aput1237,Aputai,,-7.84732,126.496,aput1237,,5,language,Austronesian,languages
 bilb1242,Bilba,,-10.6503,123.307,bilb1242,,10 11 18 43,language,Austronesian,languages
