@@ -4,5 +4,6 @@
     "description": "This dataset provides contemporary, non-overlapping language ranges for language groups of Timor and self-identified varieties of Meto as depicted in Fig. 1.1 and 1.2 of Edwards 2020.",
     "license": "CC-BY-4.0",
     "url": null,
+    "zenodo_concept_doi": "10.5281/zenodo.17338065",
     "citation": "Edwards, Owen D. 2020. Metathesis and unmetathesis in Amarasi. Berlin: Language Science Press. doi: 10.5281/zenodo.3700413."
 }
