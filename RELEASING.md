@@ -24,6 +24,8 @@ cldf validate cldf
 
 ```shell
 cldfbench geojson.validate cldf
+75      valid features
+67      valid speaker areas
 ```
 
 ```shell
@@ -71,3 +73,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | uabm1237 | 0.00 | True | 2 |
 | waim1252 | 0.00 | True | 1 |
 | wela1235 | 0.15 | False | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_edwards2020metathesis.py vX.Y
+```
+and follow the instructions given in the output of the command.
